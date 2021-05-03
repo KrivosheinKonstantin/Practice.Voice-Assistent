@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoiceAssistent</string>
+    <string name="histInputText">Задайте вопрос</string>
+    <string name="buttonText">Отправить</string>
+    <string name="toastError">Ошибка. Пустой запрос.</string>
+    <string name="toastWaitAnswer">Вопрос понял. Думаю...</string>
+    <string name="assistantCellName">Ассистент</string>
+    <string name="userCellName">Пользователь</string>
+    <string name="weather_phras_1">Не могу узнать погоду</string>
+    <string name="day_theme">Дневная тема</string>
+    <string name="night_theme">Ночная тема</string>
+    <string name="clear_dialog_item">Очистить диалог</string>
+</resources>

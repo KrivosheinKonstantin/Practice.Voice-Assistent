@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VoiceAssistent</string>
+    <string name="buttonText">Send</string>
+    <string name="histInputText">Ask a question</string>
+    <string name="toastError">Error. Empty request.</string>
+    <string name="toastWaitAnswer">I think...</string>
+    <string name="assistantCellName">Assistant</string>
+    <string name="userCellName">User</string>
+    <string name="weather_phras_1">I cant find out the weather</string>
+    <string name="day_theme">Day theme</string>
+    <string name="night_theme">Night theme</string>
+    <string name="clear_dialog_item">Clear Dialog</string>
+</resources>

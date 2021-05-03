@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="indent8">8dp</dimen>
+    <dimen name="indent0">0dp</dimen>
+    <dimen name="indent6">6dp</dimen>
+    <dimen name="textSize30">30sp</dimen>
+    <dimen name="autoMax">16sp</dimen>
+    <dimen name="autoMin">6sp</dimen>
+    <dimen name="sizeGran">1sp</dimen>
+</resources>
